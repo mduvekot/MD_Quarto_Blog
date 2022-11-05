@@ -1,5 +1,5 @@
 ---
-title: "MD_Quarto_Blog"
+title: "Michiel Duvekot"
 listing:
   contents: posts
   sort: "date desc"
